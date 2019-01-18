@@ -3,8 +3,9 @@
 Plugin Name: EduKit Notes
 Plugin URI: http://www.edu-kit.org
 Description: Allows students to create notes on specific pages, or all page types
-Version: 0.1
+Version: 0.1.1
 Author: Alex Furr & EduKit
+GitHub Plugin URI: https://github.com/ImperialCollegeLondon/edukit-notes
 */
 
 // Set Defaults and Version
